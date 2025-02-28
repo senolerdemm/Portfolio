@@ -1,0 +1,21 @@
+Here are the contents for the file `/portfolio-website/src/data/projects.json`:
+
+{
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "A brief description of Project One.",
+      "link": "https://link-to-project-one.com"
+    },
+    {
+      "title": "Project Two",
+      "description": "A brief description of Project Two.",
+      "link": "https://link-to-project-two.com"
+    },
+    {
+      "title": "Project Three",
+      "description": "A brief description of Project Three.",
+      "link": "https://link-to-project-three.com"
+    }
+  ]
+}
